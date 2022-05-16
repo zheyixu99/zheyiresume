@@ -1,6 +1,6 @@
 # Zheyi Xu
 
-##Introduction
+## Introduction
 
 Hi there! I am Zheyi Xu, from Shanghai China. I enjoy boxing and photography. 
 
@@ -12,19 +12,20 @@ Email: luciaxuzheyi@outlook.com
 Phone: +86 13816121406
 
 ## Working Experience
+Ernst & Young Shanghai Branch
+Auditor 2022.8-present
 
+BDO Shu Lun Pan Shanghai
+Auditor 2021.9-2022.4
+- IPO Auditing & Annual Auditing
 
 ## Academic Experience
-
+从一则案例探讨 FOB 条款下卖方如何规避风险 - 《现代商业》2019
 
 ## Certificates & Honors
 
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
