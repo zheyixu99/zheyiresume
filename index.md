@@ -21,8 +21,10 @@
 **Ernst & Young** - Auditor (2022.8-present Shanghai, China)
 - IPO Auditing & Annual Auditing
 
+
 **BDO Shu Lun Pan** - Auditor (2021.9-2022.4 Shanghai, China)
 - IPO Auditing & Annual Auditing
+
 
 ## Extracurricular Activities
 **United Nations Online Volunteer - Simuka Africa Youth Association** (2021.7-2021.8 Online)
@@ -31,6 +33,7 @@
 -	Participate in group brainstorm on weekly meetings, cooperate with other team members to create weekly plans and monthly plans, and strictly follow the schedule.
 -	Introduction Link to the Programme: https://www.onlinevolunteering.org/en/simuka-africa-youth-association/support-our-organizations-social-engagement
 
+
 **Global Competency Online Training Program - UNITAR New York** (2021.8)
 -	Key Principles of the UN SDGs (17 goals)
 -	Writing skills and practice of United Nations official documents
@@ -38,14 +41,17 @@
 -	Cultivation of Management Skills of International Civil Servants: Leadership & Self-Awareness, Conflict resolution & management, Sense of responsibility & Cultivation of team management ability, How to be a qualified diplomat
 -	Presentation and Mock Interview
 
+
 **Innovation & Practice Programme for the Cultivation of High-Level Internationalized Talents - China Center for International People-to-People Exchange Ministry of Education** (2021.8)
 - Understanding UN and the Sustainable Development Goal
 - Economics and Sustainability: Theories and Applications
 - Social Psychology and the UN 2030 Agenda for Sustainable Development
 - Reading and Writing of UN Official Documents
 
+
 ## Academic Experience
 **从一则案例探讨 FOB 条款下卖方如何规避风险** - 《现代商业》2019
+
 
 ## Certificates & Skills
 -	Microsoft Office (Microsoft Word, Microsoft Excel, Microsoft PowerPoint)
