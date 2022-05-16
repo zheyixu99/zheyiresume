@@ -1,5 +1,6 @@
 # Zheyi Xu
 
+![证件照](/zhengjianzhao.jpg)
 
 ## Introduction
 
@@ -14,9 +15,10 @@ Phone: +86 13816121406
 LinkedIn: [https://www.linkedin.cn/incareer/in/zheyixu]
 
 ## Educational Background
-Bachelor of Management (Accounting) - Shanghai University of International Business and Economics (SUIBE)
+**Bachelor of Management (Accounting) - Shanghai University of International Business and Economics (SUIBE)**
 - GPA: 3.4/4.0
-Associate of Computer Science - University of the People (UoPeople)
+
+**Associate of Computer Science - University of the People (UoPeople)**
 - GPA: 3.5/4.0
 - UoPeople is an accredited online university.
 
