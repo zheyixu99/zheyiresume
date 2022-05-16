@@ -1,18 +1,20 @@
-# Zheyi Xu
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>Zheyi Xu</h1>
+      <p><b>Auditor @ Ernst & Young Shanghai</b></p>
+      <p><b>Member of Chinese Computer Federation (CCF) & Association of Computing Machinery (ACM)</b></p>
+      <p><b>Part-Time Student of Computer Science @ UoPeople
+      <p><b>Email: luciaxuzheyi@outlook.com</b></p>
+      <p><b>Phone: +86 13816121406</b></p>
+      <p><b>LinkedIn: [https://www.linkedin.cn/incareer/in/zheyixu]</b></p>
+    </td>
+    <td width="25%">
+      <img src="/profile photo-1.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
 
-![证件照](/zhengjianzhao.jpg)
-
-## Introduction
-
-Hi there! I am Zheyi Xu, from Shanghai China. I enjoy boxing and photography. 
-
-I am now working as an auditor at Ernst & Young Shanghai Branch. I am also a part-time student of Computer Science at UoPeople (www.uopeople.edu), and a member of Chinese Computer Federation (CCF) and Association of Computing Machinery (ACM). 
-
-Here is my contact info. Feel free to contact me for any quesions and business cooperations. Thank you!
-
-Email: luciaxuzheyi@outlook.com
-Phone: +86 13816121406
-LinkedIn: [https://www.linkedin.cn/incareer/in/zheyixu]
 
 ## Educational Background
 **Bachelor of Management (Accounting) - Shanghai University of International Business and Economics (SUIBE)**
