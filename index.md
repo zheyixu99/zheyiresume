@@ -2,12 +2,11 @@
   <tr>
     <td width="75%">
       <h1>Zheyi Xu</h1>
-      <p><b>Auditor @ Ernst & Young Shanghai</b></p>
-      <p><b>Member of Chinese Computer Federation (CCF) & Association of Computing Machinery (ACM)</b></p>
-      <p><b>Part-Time Student of Computer Science @ UoPeople
-      <p><b>Email: luciaxuzheyi@outlook.com</b></p>
-      <p><b>Phone: +86 13816121406</b></p>
-      <p><b>LinkedIn: [https://www.linkedin.cn/incareer/in/zheyixu]</b></p>
+      <p><b>- Auditor @ Ernst & Young Shanghai</b></p>
+      <p><b>-bMember of Chinese Computer Federation (CCF) & Association of Computing Machinery (ACM)</b></p>
+      <p><b>- Part-Time Student of Computer Science @ UoPeople
+      <p><b>- Email: luciaxuzheyi@outlook.com   Phone: +86 13816121406</b></p>
+      <p><b>- LinkedIn: [https://www.linkedin.cn/incareer/in/zheyixu]</b></p>
     </td>
     <td width="25%">
       <img src="/profile photo-1.jpg" width="100%"> 
