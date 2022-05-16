@@ -1,19 +1,24 @@
-## Welcome to GitHub Pages
+# Zheyi Xu
 
-You can use the [editor on GitHub](https://github.com/luciaxuzheyi/zheyixu.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+##Introduction
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi there! I am Zheyi Xu, from Shanghai China. I enjoy boxing and photography. 
 
-### Markdown
+I am now working as an auditor at Ernst & Young Shanghai Branch. I am also a part-time student of Computer Science at UoPeople (www.uopeople.edu), and a member of Chinese Computer Federation (CCF) and Association of Computing Machinery (ACM). 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here is my contact info. Feel free to contact me for any quesions and business cooperations. Thank you!
 
-```markdown
-Syntax highlighted code block
+Email: luciaxuzheyi@outlook.com
+Phone: +86 13816121406
 
-# Header 1
-## Header 2
-### Header 3
+## Working Experience
+
+
+## Academic Experience
+
+
+## Certificates & Honors
+
 
 - Bulleted
 - List
