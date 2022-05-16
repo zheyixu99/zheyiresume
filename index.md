@@ -1,5 +1,6 @@
 # Zheyi Xu
 
+![E:\.扫描件 证件照 各类证\profile photo-2.jpg]
 ## Introduction
 
 Hi there! I am Zheyi Xu, from Shanghai China. I enjoy boxing and photography. 
@@ -10,17 +11,24 @@ Here is my contact info. Feel free to contact me for any quesions and business c
 
 Email: luciaxuzheyi@outlook.com
 Phone: +86 13816121406
+LinkedIn: [https://www.linkedin.cn/incareer/in/zheyixu]
+
+## Educational Background
+Bachelor of Management (Accounting) - Shanghai University of International Business and Economics (SUIBE)
+- GPA: 3.4/4.0
+Associate of Computer Science - University of the People (UoPeople)
+- GPA: 3.5/4.0
+- UoPeople is an accredited online university.
 
 ## Working Experience
-Ernst & Young Shanghai Branch
-Auditor 2022.8-present
+**Ernst & Young** - Auditor (2022.8-present Shanghai, China)
+- IPO Auditing & Annual Auditing
 
-BDO Shu Lun Pan Shanghai
-Auditor 2021.9-2022.4
+**BDO Shu Lun Pan** - Auditor (2021.9-2022.4 Shanghai, China)
 - IPO Auditing & Annual Auditing
 
 ## Academic Experience
-从一则案例探讨 FOB 条款下卖方如何规避风险 - 《现代商业》2019
+**从一则案例探讨 FOB 条款下卖方如何规避风险** - 《现代商业》2019
 
 ## Certificates & Honors
 
