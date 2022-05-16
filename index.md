@@ -4,10 +4,10 @@
 **Bachelor of Management (Accounting) - Shanghai University of International Business and Economics (SUIBE)**
 - GPA: 3.4/4.0
 - Honors:
-- 12 Finalists: PwC’s Career Plus Challenge (Shanghai Region, 2020.7)
-- First Prize: “Mathematical Culture Festival” Mathematical Modeling Competition (school level, 2019.5)
-- Excellent Discipline Scholarship school level (semester 2 in 2017-2018 academic year, 2018.11)
-- Excellent Prize: Shanghai College Students’ Innovation and Entrepreneurship Competition (2018.04)
+1. 12 Finalists: PwC’s Career Plus Challenge (Shanghai Region, 2020.7)
+2. First Prize: “Mathematical Culture Festival” Mathematical Modeling Competition (school level, 2019.5)
+3. Excellent Discipline Scholarship school level (semester 2 in 2017-2018 academic year, 2018.11)
+4. Excellent Prize: Shanghai College Students’ Innovation and Entrepreneurship Competition (2018.04)
 
 
 **American Semester Program - Michigan State University (MSU)**
