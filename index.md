@@ -8,7 +8,7 @@
 </ul>
 
 <h2>Educational Background</h2>
-<h3>Bachelor of Management (Accounting) - Shanghai University of International Business and Economics (SUIBE)</h3>
+<h3>Bachelor of Management (Accounting) - Shanghai University of International Business and Economics (SUIBE) (2017.9-2021.6)</h3>
 <ul>
 <li>GPA: 3.4/4.0</li>
 <li>Honors:</li>
@@ -18,38 +18,42 @@
     <li>Excellent Prize: Shanghai College Students’ Innovation and Entrepreneurship Competition (2018.04)</li>
 </ol></ul>
 
-<h3>American Semester Program - Michigan State University (MSU)</h3>
+<h3>American Semester Program - Michigan State University (MSU) (2018.8-2018.12)</h3>
 <ul>
 <li>GPA: 3.65/4.0</li>
 </ul>
 
-<h3>Associate of Computer Science - University of the People (UoPeople)</h3>
+<h3>Associate of Computer Science - University of the People (UoPeople) (2020.5-present)</h3>
 <ul>
-<li>GPA: 3.5/4.0</li>
+<li>GPA: 3.6/4.0</li>
 <li>UoPeople is an accredited online university.</li>
+<li>Official Website: www.uopeople.edu.</li>
 </ul>
 
 <h2>Working Experience</h2>
-<h3>Ernst & Young** - Auditor (2022.8-present Shanghai, China)</h3>
+<h3>Ernst & Young Certified Public Accountants - Auditor (2022.8-present Shanghai, China)</h3>
 <ul>
 <li>IPO Auditing & Annual Auditing</li>
 </ul>
 
-<h3>BDO Shu Lun Pan** - Auditor (2021.9-2022.4 Shanghai, China)</h3>
+<h3>BDO Shu Lun Pan Certified Public Accountants - Auditor (2021.9-2022.4 Shanghai, China)</h3>
 <ul>
 <li>IPO Auditing & Annual Auditing</li>
 </ul>
 
 
 <h2>Extracurricular Activities</h2>
-<h3>United Nations Online Volunteer - Jadir Taekwondo Association (JTKAD) (2022.5-present Online)</h3>
+<h3>Kaggle Competition Candidate- (2022.5-present) </h3>
+
+<h3>United Nations Online Volunteer - Jadir Taekwondo Association (AJTKD) (2022.5-present Online)</h3>
 <ul>
-<li>Work at Advocacy and Fundraising Team</li>
+<li>Work at Advocacy and Fundraising Team.</li>
+<li>Responsible for the Financial Budget of Funds.</li>
 </ul>
 
 <h3>United Nations Online Volunteer - Simuka Africa Youth Association (2021.7-2021.8 Online)</h3>
 <ul>
-<li>Work at Advocacy and Fundraising Team</li>
+<li>Work at Advocacy and Fundraising Team.</li>
 <li>Identify organizations that could be reached out to for sponsorship and donation, complete the List of Given and New Potential Donors and update the Contact Details, and write proposal letters to help approach the donors through e-mail.</li>
 <li>Participate in group brainstorm on weekly meetings, cooperate with other team members to create weekly plans and monthly plans, and strictly follow the schedule.</li>
 <li>Introduction Link to the Programme: https://www.onlinevolunteering.org/en/simuka-africa-youth-association/support-our-organizations-social-engagement</li>
