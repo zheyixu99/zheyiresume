@@ -42,15 +42,20 @@
 
 
 <h2>Extracurricular Activities</h2>
-<h3>United Nations Online Volunteer - Simuka Africa Youth Association** (2021.7-2021.8 Online)</h3>
+<h3>United Nations Online Volunteer - Jadir Taekwondo Association (JTKAD) (2022.5-present Online)</h3>
 <ul>
-<li>Work at Advocacy * Fundraising Team</li>
+<li>Work at Advocacy and Fundraising Team</li>
+</ul>
+
+<h3>United Nations Online Volunteer - Simuka Africa Youth Association (2021.7-2021.8 Online)</h3>
+<ul>
+<li>Work at Advocacy and Fundraising Team</li>
 <li>Identify organizations that could be reached out to for sponsorship and donation, complete the List of Given and New Potential Donors and update the Contact Details, and write proposal letters to help approach the donors through e-mail.</li>
 <li>Participate in group brainstorm on weekly meetings, cooperate with other team members to create weekly plans and monthly plans, and strictly follow the schedule.</li>
 <li>Introduction Link to the Programme: https://www.onlinevolunteering.org/en/simuka-africa-youth-association/support-our-organizations-social-engagement</li>
 </ul>
 
-<h3>Global Competency Online Training Program - UNITAR New York** (2021.8)</h3>
+<h3>Global Competency Online Training Program - UNITAR New York (2021.8)</h3>
 <ul>
 <li>Key Principles of the UN SDGs (17 goals)</li>
 <li>Writing skills and practice of United Nations official documents</li>
@@ -59,7 +64,7 @@
 <li>Presentation and Mock Interview</li>
 </ul>
 
-<h3>Innovation & Practice Programme for the Cultivation of High-Level Internationalized Talents - China Center for International People-to-People Exchange Ministry of Education** (2021.8)</h3>
+<h3>Innovation & Practice Programme for the Cultivation of High-Level Internationalized Talents - China Center for International People-to-People Exchange Ministry of Education (2021.8)</h3>
 <ul>
 <li>Understanding UN and the Sustainable Development Goal</li>
 <li>Economics and Sustainability: Theories and Applications</li>
@@ -68,7 +73,7 @@
 </ul>
 
 <h2>Academic Experience</h2>
-<h3>**从一则案例探讨 FOB 条款下卖方如何规避风险** - 《现代商业》2019</h3>
+<h3>Discuss how sellers avoid risks under FOB terms from a case(从一则案例探讨 FOB 条款下卖方如何规避风险) - Modern Business(现代商业)2019</h3>
 
 <h2>Certificates & Skills</h2>
 <ul>
