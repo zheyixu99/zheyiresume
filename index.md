@@ -5,7 +5,7 @@
 <h2>Profile</h2>
 <ul><li>Auditor @ Ernst & Young Shanghai</li>
 <li>Professional Member of Chinese Computer Federation (CCF) & Association of Computing Machinery (ACM)</li>
-<li>Part-Time Student of Computer Science @ UoPeople</li>
+<li>Current CS Student @ UoPeople</li>
 <li>Email: luciaxuzheyi@outlook.com</li>
 <li>Phone: +86 13816121406</li>
 </ul>
