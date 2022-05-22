@@ -1,7 +1,6 @@
-<table border="0">
+<h1>Zheyi Xu</h1>
   <tr>
     <td width="75%">
-      <h1>Zheyi Xu</h1>
       <ul>
         <li>Auditor @ Ernst & Young Shanghai</li>
         <li>Professional Member of Chinese Computer Federation (CCF) & Association of Computing Machinery (ACM)</li>
