@@ -27,7 +27,7 @@
 <ul>
 <li>GPA: 3.6/4.0</li>
 <li>UoPeople is an accredited online university.</li>
-<li><p>Official Website: </p><a href="https://www.uopeople.edu/" target="_blank"></a></li>
+<li>Official Website: </li><a href="https://www.uopeople.edu/" target="_blank">https://www.uopeople.edu/</a>
 </ul>
 
 <h2>Working Experience</h2>
