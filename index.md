@@ -11,7 +11,7 @@
 <h3>Bachelor of Management (Accounting) - Shanghai University of International Business and Economics (SUIBE) (2017.9-2021.6)</h3>
 <ul>
 <li>GPA: 3.4/4.0</li>
-<li>Honors:</li>
+<li>Honors and Awards:</li>
 <ol><li>12 Finalists: PwC’s Career Plus Challenge (Shanghai Region, 2020.7)</li>
     <li>First Prize: “Mathematical Culture Festival” Mathematical Modeling Competition (school level, 2019.5)</li>
     <li>Excellent Discipline Scholarship school level (semester 2 in 2017-2018 academic year, 2018.11)</li>
@@ -27,7 +27,7 @@
 <ul>
 <li>GPA: 3.6/4.0</li>
 <li>UoPeople is an accredited online university.</li>
-<li>Official Website: www.uopeople.edu.</li>
+<li>Official Website:<a href=www.uopeople.edu></a></li>
 </ul>
 
 <h2>Working Experience</h2>
@@ -43,7 +43,10 @@
 
 
 <h2>Extracurricular Activities</h2>
-<h3>Kaggle Competition Candidate- (2022.5-present) </h3>
+<h3>Kaggle Competition Candidate- U.S. Patent Phrase to Phrase Matching(2022.5-present)</h3>
+<ul>
+<li>Help Identify Similar Phrases in U.S. Patents.</li>
+</ul>
 
 <h3>United Nations Online Volunteer - Jadir Taekwondo Association (AJTKD) (2022.5-present Online)</h3>
 <ul>
