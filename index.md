@@ -14,19 +14,17 @@
   </tr>
 </table>
 
+<h2>Educational Background</h2>
+<h3>Bachelor of Management (Accounting) - Shanghai University of International Business and Economics (SUIBE)</h3>
+<p><b>- GPA: 3.4/4.0</b></p>
+<p><b>- Honors:</b></p>
+<p><b>1. 12 Finalists: PwC’s Career Plus Challenge (Shanghai Region, 2020.7)</b></p>
+<p><b>2. First Prize: “Mathematical Culture Festival” Mathematical Modeling Competition (school level, 2019.5)</b></p>
+<p><b>3. Excellent Discipline Scholarship school level (semester 2 in 2017-2018 academic year, 2018.11)</b></p>
+<p><b>4. Excellent Prize: Shanghai College Students’ Innovation and Entrepreneurship Competition (2018.04)</b></p>
 
-## Educational Background
-**Bachelor of Management (Accounting) - Shanghai University of International Business and Economics (SUIBE)**
-- GPA: 3.4/4.0
-- Honors:
-1. 12 Finalists: PwC’s Career Plus Challenge (Shanghai Region, 2020.7)
-2. First Prize: “Mathematical Culture Festival” Mathematical Modeling Competition (school level, 2019.5)
-3. Excellent Discipline Scholarship school level (semester 2 in 2017-2018 academic year, 2018.11)
-4. Excellent Prize: Shanghai College Students’ Innovation and Entrepreneurship Competition (2018.04)
-
-
-**American Semester Program - Michigan State University (MSU)**
-- GPA: 3.65/4.0
+<h3>American Semester Program - Michigan State University (MSU)</h3>
+<p><b>- GPA: 3.65/4.0</b></p>
 
 **Associate of Computer Science - University of the People (UoPeople)**
 - GPA: 3.5/4.0
