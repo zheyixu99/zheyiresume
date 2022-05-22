@@ -46,7 +46,7 @@
 
 
 <h2>Extracurricular Activities</h2>
-<h3>Kaggle Competition Candidate- U.S. Patent Phrase to Phrase Matching(2022.5-present)</h3>
+<h3>Kaggle Competition Candidate- U.S. Patent Phrase to Phrase Matching (2022.5-present)</h3>
 <ul>
 <li>Help Identify Similar Phrases in U.S. Patents.</li>
 </ul>
