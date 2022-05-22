@@ -1,3 +1,18 @@
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>Zheyi Xu</h1>
+      <p><b>Auditor @ Ernst & Young Shanghai</b></p>
+      <p><b>Professional Member of Chinese Computer Federation (CCF) & Association of Computing Machinery (ACM)</b></p>
+      <p><b>Part-Time Student of Computer Science @ UoPeople</b></p>
+      <p><b>Email: luciaxuzheyi@outlook.com</b></p>
+      <p><b>Phone: +86 13816121406</b><p>
+    </td>
+    <td width="25%">
+      <img src="/profile photo-1.jpg" width="100%">
+    </td>
+  </tr>
+</table>
 
 
 ## Educational Background
