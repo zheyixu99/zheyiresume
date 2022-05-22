@@ -1,6 +1,6 @@
 <h1>Zheyi Xu</h1>
 
-<img src="/profile photo-1.jpg" align="left" />
+<img src="/profile photo-1.jpg" width=25% align="right" />
 
 <h2>Introduction</h2>
 <ul><li>Auditor @ Ernst & Young Shanghai</li>
