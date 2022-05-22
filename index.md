@@ -1,18 +1,12 @@
 <h1>Zheyi Xu</h1>
-  <tr>
-    <td width="75%">
+  <h2>Introduction</h2>
       <ul>
         <li>Auditor @ Ernst & Young Shanghai</li>
         <li>Professional Member of Chinese Computer Federation (CCF) & Association of Computing Machinery (ACM)</li>
         <li>Part-Time Student of Computer Science @ UoPeople</li>
         <li>Email: luciaxuzheyi@outlook.com</li>
         <li>Phone: +86 13816121406</li>
-    </td>
-    <td width="25%">
-      <img src="/profile photo-1.jpg" width="100%">
-    </td>
-  </tr>
-</table>
+      </ul>
 
 <h2>Educational Background</h2>
   <h3>Bachelor of Management (Accounting) - Shanghai University of International Business and Economics (SUIBE)</h3>
@@ -23,53 +17,56 @@
         <li>First Prize: “Mathematical Culture Festival” Mathematical Modeling Competition (school level, 2019.5)</li>
         <li>Excellent Discipline Scholarship school level (semester 2 in 2017-2018 academic year, 2018.11)</li>
         <li>Excellent Prize: Shanghai College Students’ Innovation and Entrepreneurship Competition (2018.04)</li>
+  </ol></ul>
 
   <h3>American Semester Program - Michigan State University (MSU)</h3>
-    <ul><li>GPA: 3.65/4.0</li>
+    <ul><li>GPA: 3.65/4.0</li></ul>
 
   <h3>Associate of Computer Science - University of the People (UoPeople)</h3>
     <ul><li>GPA: 3.5/4.0</li>
       <li>UoPeople is an accredited online university.</li>
+  </ul>
 
 <h2>Working Experience</h2>
       <h3>Ernst & Young** - Auditor (2022.8-present Shanghai, China)</h3>
       <ul><li>IPO Auditing & Annual Auditing</li>
+  </ul>
 
-          <h3>BDO Shu Lun Pan** - Auditor (2021.9-2022.4 Shanghai, China)</h3>
+<h3>BDO Shu Lun Pan** - Auditor (2021.9-2022.4 Shanghai, China)</h3>
        <ul><li>IPO Auditing & Annual Auditing</li>
+       </ul>
 
 
-         <h2>Extracurricular Activities</h2>
-         <h3>United Nations Online Volunteer - Simuka Africa Youth Association** (2021.7-2021.8 Online)</h3>
-         <ul><li>Work at Advocacy * Fundraising Team</li>
+<h2>Extracurricular Activities</h2>
+<h3>United Nations Online Volunteer - Simuka Africa Youth Association** (2021.7-2021.8 Online)</h3>
+<ul><li>Work at Advocacy * Fundraising Team</li>
 <li>Identify organizations that could be reached out to for sponsorship and donation, complete the List of Given and New Potential Donors and update the Contact Details, and write proposal letters to help approach the donors through e-mail.</li>
 <li>Participate in group brainstorm on weekly meetings, cooperate with other team members to create weekly plans and monthly plans, and strictly follow the schedule.</li>
 <li>Introduction Link to the Programme: https://www.onlinevolunteering.org/en/simuka-africa-youth-association/support-our-organizations-social-engagement</li>
+</ul>
 
-
-           <h3>Global Competency Online Training Program - UNITAR New York** (2021.8)</h3>
+<h3>Global Competency Online Training Program - UNITAR New York** (2021.8)</h3>
 <ul><li>Key Principles of the UN SDGs (17 goals)</li>
 <li>Writing skills and practice of United Nations official documents</li>
 <li>Cultivation of Core Competence of International Civil Servants: Communication Skills, Negotiation skills & Practice</li>
 <li>Cultivation of Management Skills of International Civil Servants: Leadership & Self-Awareness, Conflict resolution & management, Sense of responsibility & Cultivation of team management ability, How to be a qualified diplomat</li>
 <li>Presentation and Mock Interview</li>
-
+</ul>
 
 <h3>Innovation & Practice Programme for the Cultivation of High-Level Internationalized Talents - China Center for International People-to-People Exchange Ministry of Education** (2021.8)</h3>
 <ul><li>Understanding UN and the Sustainable Development Goal</li>
 <li>Economics and Sustainability: Theories and Applications</li>
 <li>Social Psychology and the UN 2030 Agenda for Sustainable Development</li>
 <li>Reading and Writing of UN Official Documents</li>
+</ul>
 
+<h2>Academic Experience</h2>
+<h3>**从一则案例探讨 FOB 条款下卖方如何规避风险** - 《现代商业》2019</h3>
 
-  <h2>Academic Experience</h2>
-  <h3>**从一则案例探讨 FOB 条款下卖方如何规避风险** - 《现代商业》2019</h3>
-
-
-  <h2>Certificates & Skills</h2>
+<h2>Certificates & Skills</h2>
 <ul><li>Microsoft Office (Microsoft Word, Microsoft Excel, Microsoft PowerPoint)</li>
 <li>Programming: Matlab, Python, JavaSE, R language; Database: MySQL; Analysis and Chart Software: Tableau.</li>
 <li>Google Analytics Academy: Google Analytics for Beginners & Power Users</li>
 <li>Coursera Specialization Course: Business Analytics</li>
 <li>CET6(College English Test 6): 552</li>
-
+</ul>
