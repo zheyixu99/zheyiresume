@@ -2,7 +2,7 @@
 
 <img src="/profile photo-1.jpg" width=25% align="right" />
 
-<h2>Introduction</h2>
+<h2>Profile</h2>
 <ul><li>Auditor @ Ernst & Young Shanghai</li>
 <li>Professional Member of Chinese Computer Federation (CCF) & Association of Computing Machinery (ACM)</li>
 <li>Part-Time Student of Computer Science @ UoPeople</li>
