@@ -1,13 +1,13 @@
-# zheyixu.github.io
-Zheyi Xu's Personal Page
-
-# Contact Info:
+# My Webpage:
 
 ```bash
-ZheyiXu@my.uopeople.edu
-luciaxuzheyi@outlook.com
-+86-152-2131-7944
+LinkedIn: https://www.linkedin.cn/incareer/in/zheyixu
+GitHub: https://github.com/luciaxuzheyi
+Email: ZheyiXu@my.uopeople.edu
+```
 
 # Certificates & Skills:
 
 ```bash
+
+```
