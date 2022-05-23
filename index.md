@@ -60,7 +60,7 @@
 <li>Work at Advocacy and Fundraising Team.</li>
 <li>Identify organizations that could be reached out to for sponsorship and donation, complete the List of Given and New Potential Donors and update the Contact Details, and write proposal letters to help approach the donors through e-mail.</li>
 <li>Participate in group brainstorm on weekly meetings, cooperate with other team members to create weekly plans and monthly plans, and strictly follow the schedule.</li>
-<li>Introduction Link to the Programme: <a href="https://www.onlinevolunteering.org/en/simuka-africa-youth-association/support-our-organizations-social-engagement">https://www.onlinevolunteering.org/en/simuka-africa-youth-association/support-our-organizations-social-engagement</a></li>
+<li>Introduction Link to the Programme: https://www.onlinevolunteering.org/en/simuka-africa-youth-association/support-our-organizations-social-engagement">https://www.onlinevolunteering.org/en/simuka-africa-youth-association/support-our-organizations-social-engagement</li>
 </ul>
 
 <h3>Global Competency Online Training Program - UNITAR New York (2021.8, Online)</h3>
