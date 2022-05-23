@@ -81,7 +81,7 @@
 </ul>
 
 <h2>Academic Experience</h2>
-<h3>Discuss how sellers avoid risks under FOB terms from a case(从一则案例探讨 FOB 条款下卖方如何规避风险) - Modern Business(现代商业)2019</h3>
+<h3><a href="https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2019&filename=XDBY201926012&uniplatform=NZKPT&v=onV58q2y0mP8YBB5X0k6qRiz6dBxJ9kBeRmzQoN8s3Xd_R1Nej5d1I311tii-AiU">Discuss how sellers avoid risks under FOB terms from a case(从一则案例探讨 FOB 条款下卖方如何规避风险) - Modern Business(现代商业)2019</a></h3>
 
 <h2>Certificates & Skills</h2>
 <ul>
