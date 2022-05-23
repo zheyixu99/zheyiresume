@@ -1,6 +1,6 @@
 <h1>Zheyi Xu</h1>
 
-<img src="profile photo-1.jpg" style="float:left; width: 25%; margin: 1px;" />
+<img src="profile photo-1.jpg" style="float:left; width: 25%; margin: 5px;" />
 
 <h2>Profile</h2>
 <ul><li>Auditor @ Ernst & Young Shanghai</li>
@@ -28,7 +28,7 @@
 <ul>
 <li>GPA: 3.6/4.0</li>
 <li>UoPeople is an accredited online university.</li>
-<li>Official Website: www.uopeople.edu</li>
+<li>Official Website: <a href="www.uopeople.edu"></a></li>
 </ul>
 
 <h2>Working Experience</h2>
