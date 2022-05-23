@@ -49,13 +49,13 @@
 <li>Help Identify Similar Phrases in U.S. Patents.</li>
 </ul>
 
-<h3>United Nations Online Volunteer - Jadir Taekwondo Association (AJTKD) (2022.5-present Online)</h3>
+<h3>United Nations Online Volunteer - Jadir Taekwondo Association (AJTKD) (2022.5-present, Online)</h3>
 <ul>
 <li>Work at Advocacy and Fundraising Team.</li>
 <li>Responsible for the Financial Budget of Funds.</li>
 </ul>
 
-<h3>United Nations Online Volunteer - Simuka Africa Youth Association (2021.7-2021.8 Online)</h3>
+<h3>United Nations Online Volunteer - Simuka Africa Youth Association (2021.7-2021.8, Online)</h3>
 <ul>
 <li>Work at Advocacy and Fundraising Team.</li>
 <li>Identify organizations that could be reached out to for sponsorship and donation, complete the List of Given and New Potential Donors and update the Contact Details, and write proposal letters to help approach the donors through e-mail.</li>
@@ -63,7 +63,7 @@
 <li>Introduction Link to the Programme: https://www.onlinevolunteering.org/en/simuka-africa-youth-association/support-our-organizations-social-engagement</li>
 </ul>
 
-<h3>Global Competency Online Training Program - UNITAR New York (2021.8)</h3>
+<h3>Global Competency Online Training Program - UNITAR New York (2021.8, Online)</h3>
 <ul>
 <li>Key Principles of the UN SDGs (17 goals)</li>
 <li>Writing skills and practice of United Nations official documents</li>
@@ -72,7 +72,7 @@
 <li>Presentation and Mock Interview</li>
 </ul>
 
-<h3>Innovation & Practice Programme for the Cultivation of High-Level Internationalized Talents - China Center for International People-to-People Exchange Ministry of Education (2021.8)</h3>
+<h3>Innovation & Practice Programme for the Cultivation of High-Level Internationalized Talents - China Center for International People-to-People Exchange Ministry of Education (2021.8, Online)</h3>
 <ul>
 <li>Understanding UN and the Sustainable Development Goal</li>
 <li>Economics and Sustainability: Theories and Applications</li>
