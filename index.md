@@ -2,6 +2,12 @@
 
 <img src="profile photo-1.jpg" style="float:right; width: 25%; margin: 1px;" />
 
+img.floatright { 
+float: right; 
+margin: 5px; 
+}
+<img src="profile photo-1.jpg" class="floatright" />
+
 <h2>Profile</h2>
 <ul><li>Auditor @ Ernst & Young Shanghai</li>
 <li>Professional Member of Chinese Computer Federation (CCF) & Association of Computing Machinery (ACM)</li>
