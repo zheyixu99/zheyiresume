@@ -88,6 +88,7 @@
 <li>Google IT Support Professional Certificates</li>
 <li>Google IT Automation with Python Professional Certificates</li>
 <li>IBM Data Science Professional Certificate</li>
+<li>Java Programming and Software Engineering Fundamentals Specialization</li>
 <li>Google Analytics Academy: Google Analytics for Beginners & Power Users</li>
 <li>Coursera Specialization Course: Business Analytics</li>
 </ul>
