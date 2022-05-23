@@ -86,14 +86,18 @@
 <h2>Certificates</h2>
 <ul>
 <li>Coursera Certificates:</li>
+    <ol>
     <li>Google IT Support Professional Certificates</li>
     <li>Google IT Automation with Python Professional Certificates</li>
     <li>IBM Data Science Professional Certificate</li>
     <li>Java Programming and Software Engineering Fundamentals Specialization</li>
     <li>Business Analytics Specialization</li>
+    </ol>
 <li>Google Analytics Academy:</li>
+    <ol>
     <li>Google Analytics for Beginners</li>
     <li>Google Analytics for Power Users</li>
+    </ol>
 </ul>
 
 <h2>Skills & Language</h2>
