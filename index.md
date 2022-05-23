@@ -3,6 +3,9 @@
 <img src="./profile photo-1.jpg" width=25% align="right" />
 <img src="https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png" width=25% align="right" />
  </p>
+ 
+![image](https://raw.githubusercontent.com/luciaxuzheyi/zheyixu.github.io/gh-pages/profile%20photo-1.jpg)
+
 <h2>Profile</h2>
 <ul><li>Auditor @ Ernst & Young Shanghai</li>
 <li>Professional Member of Chinese Computer Federation (CCF) & Association of Computing Machinery (ACM)</li>
