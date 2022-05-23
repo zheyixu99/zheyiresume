@@ -85,17 +85,20 @@
 
 <h2>Certificates</h2>
 <ul>
-<li>Google IT Support Professional Certificates</li>
-<li>Google IT Automation with Python Professional Certificates</li>
-<li>IBM Data Science Professional Certificate</li>
-<li>Java Programming and Software Engineering Fundamentals Specialization</li>
-<li>Google Analytics Academy: Google Analytics for Beginners & Power Users</li>
-<li>Coursera Specialization Course: Business Analytics</li>
+<li>Coursera Certificates:</li>
+    <li>Google IT Support Professional Certificates</li>
+    <li>Google IT Automation with Python Professional Certificates</li>
+    <li>IBM Data Science Professional Certificate</li>
+    <li>Java Programming and Software Engineering Fundamentals Specialization</li>
+    <li>Business Analytics Specialization</li>
+<li>Google Analytics Academy:</li>
+    <li>Google Analytics for Beginners</li>
+    <li>Google Analytics for Power Users</li>
 </ul>
 
 <h2>Skills & Language</h2>
 <ul>
 <li>Programming: Matlab, Python, JavaSE, R language; Database: MySQL; Analysis and Chart Software: Tableau.</li>
 <li>Microsoft Office (Microsoft Word, Microsoft Excel, Microsoft PowerPoint)</li>
-<li>Mandarin Chinese (Native Speaker), English (Business Commmunication)</li>
+<li>Language: Mandarin Chinese (Native Speaker), English (Business Commmunication)</li>
 </ul>
