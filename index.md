@@ -6,6 +6,7 @@
 <ul><li>Auditor @ Ernst & Young Shanghai</li>
 <li>Professional Member of Chinese Computer Federation (CCF) & Association of Computing Machinery (ACM)</li>
 <li>Current CS Student @ UoPeople</li>
+<li>Contact Info: ZheyiXu@my.uopeople.edu</li>
 </ul>
 
 <h2>Educational Background</h2>
