@@ -3,9 +3,6 @@
 <img src="profile photo-1.jpg" style="float:right; width: 25%; margin: 1px;" />
 
 Hi! Here is my resume.
-<br></br>
-
-<img src="profilephoto-2.jpg" style="float:right" width="15%">
 
 <h3>Profile</h3>
 <ul><li>Auditor @ Ernst & Young Shanghai</li>
@@ -14,7 +11,6 @@ Hi! Here is my resume.
 <li>Contact Info: ZheyiXu@my.uopeople.edu</li>
 </ul>
 
-<br></br>
 
 <h3>Educational Background</h3>
 <h4>Bachelor of Management (Accounting) - Shanghai University of International Business and Economics (SUIBE) (2017.9-2021.6)</h4>
@@ -41,7 +37,6 @@ Hi! Here is my resume.
 <li>Official Website: <a href="www.uopeople.edu"></a></li>
 </ul>
 
-<br></br>
 
 <h3>Working Experience</h3>
 <h4>Ernst & Young Certified Public Accountants - Auditor (2022.8-present Shanghai, China)</h4>
@@ -55,7 +50,6 @@ Hi! Here is my resume.
 <li>IPO Auditing & Annual Auditing</li>
 </ul>
 
-<br></br>
 
 <h3>Extracurricular Activities</h3>
 <h4>Kaggle Competition Candidate- U.S. Patent Phrase to Phrase Matching (2022.5-present)</h4>
@@ -98,14 +92,13 @@ Hi! Here is my resume.
 <li>Reading and Writing of UN Official Documents</li>
 </ul>
 
-<br></br>
 
 <h3>Academic Experience</h3>
 <ul>
-<li>Discuss how sellers avoid risks under FOB terms from a case(从一则案例探讨 FOB 条款下卖方如何规避风险) - Modern Business(现代商业)2019 - <a" href="https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2019&filename=XDBY201926012&uniplatform=NZKPT&v=onV58q2y0mP8YBB5X0k6qRiz6dBxJ9kBeRmzQoN8s3V4Cc1PqKLWPw9oSL3UfNsK" target="_blank">[cnki.net]</a></li>
+<li>Discuss how sellers avoid risks under FOB terms from a case(从一则案例探讨 FOB 条款下卖方如何规避风险) - Modern Business(现代商业)2019 <a href="https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2019&filename=XDBY201926012&uniplatform=NZKPT&v=onV58q2y0mP8YBB5X0k6qRiz6dBxJ9kBeRmzQoN8s3V4Cc1PqKLWPw9oSL3UfNsK" target="_blank">[cnki.net]</a></li>
 </ul>
 
-<br></br>
+
 
 <h3>Academic Experience</h3>
 <ul>
@@ -113,7 +106,7 @@ Hi! Here is my resume.
 <li>Association of Computing Machinery (ACM) Professional Membership</li>
 </ul>
 
-<br></br>
+
 
 <h3>Certificates</h3>
 <ul>
@@ -126,7 +119,7 @@ Hi! Here is my resume.
 <li>Google Analytics for Power Users. 2022. <a href="https://analytics.google.com/analytics/academy/certificate/KCcy03yxTdOVTtVUDxXYQQ" target="_blank">[<u>Google Analytics Academy Certificate</u>]</a></li>
 </ul>
 
-<br></br>
+
 
 <h3>Skills & Language</h3>
 <ul>
