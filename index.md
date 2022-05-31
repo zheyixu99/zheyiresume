@@ -100,7 +100,7 @@ Hi! Here is my resume.
 
 
 
-<h3>Academic Experience</h3>
+<h3>Society Membership</h3>
 <ul>
 <li>Chinese Computer Federation (CCF) Professional Membership</li>
 <li>Association of Computing Machinery (ACM) Professional Membership</li>
